@@ -1,6 +1,6 @@
 ﻿namespace SuperHeroAPI.Models
 {
-    public class Superhero
+    public class SuperHero
     {
         public int Id { get; set; }
         public string Name { get; set; } = string.Empty;
